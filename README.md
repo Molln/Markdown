@@ -2,7 +2,7 @@
 * Markdown 标题  
 [Demo](https://github.com/Molln/Markdown/blob/master/Demo/MarkdownTitle.md)
 * Markdown 段落格式  
-* [Demo](https://github.com/Molln/Markdown/blob/master/Demo/MarkdownParagraph.md)
+[Demo](https://github.com/Molln/Markdown/blob/master/Demo/MarkdownParagraph.md)
 * Markdown 列表  
 [Demo](https://github.com/Molln/Markdown/blob/master/Demo/MarkdownList.md)
 * Markdown 区块  
