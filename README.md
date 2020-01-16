@@ -15,5 +15,5 @@
 [Demo](https://github.com/Molln/Markdown/blob/master/Demo/MarkdownImage.md)
 * Markdown 表格  
 [Demo](https://github.com/Molln/Markdown/blob/master/Demo/MarkdownTable.md)
-* Markdown 高级技巧  
+* Markdown 其他  
 [Demo](https://github.com/Molln/Markdown/blob/master/Demo/MarkdownOthers.md)
